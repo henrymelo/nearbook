@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "172736234953",
+    "firebase_url": "https://casadocodigo-355a2.firebaseio.com",
+    "project_id": "casadocodigo-355a2",
+    "storage_bucket": "casadocodigo-355a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172736234953:android:a3d4e0ad47b98c1f",
+        "android_client_info": {
+          "package_name": "br.com.caelum.casadocodigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172736234953-2uj6sjhj3kjbkehtll5hr69rle9bmlvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGMZne9va-zMbHZRLeXIspOjlVfcfBq_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

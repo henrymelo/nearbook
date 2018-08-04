@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">172736234953-2uj6sjhj3kjbkehtll5hr69rle9bmlvi.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://casadocodigo-355a2.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">172736234953</string>
+    <string name="google_api_key" translatable="false">AIzaSyAGMZne9va-zMbHZRLeXIspOjlVfcfBq_c</string>
+    <string name="google_app_id" translatable="false">1:172736234953:android:a3d4e0ad47b98c1f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAGMZne9va-zMbHZRLeXIspOjlVfcfBq_c</string>
+    <string name="google_storage_bucket" translatable="false">casadocodigo-355a2.appspot.com</string>
+</resources>

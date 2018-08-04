@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-26.1.0_c1d2504ea3e28ba74f27242938b1554b4cb12fba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_31825f11aa2437ca0f34c38f9a6b5251baba633a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/15.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0165a9fb28c8333504f837916f8b32c1ee38afca">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-15.0.0_ed2d5b0c802ad9b1d4d91e7e677056017da963b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_cb67a526f8c039584aaca3adeb7cffb69362a04e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-identifier/15.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38d065c5214fa59d69172db23d6dc9f40240a26e">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-identifier-15.0.0_085d34a430cbdf9c7b82d7b006585a0ca5ab9345/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="55247bdcca56eea988193b43d87dd77e6b17e3dc">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_72ace3e4790fc02407d57123262180e4180ce3d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/15.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="28393911fbd5429c58a538283a2ec4797d71f5ee">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-15.0.0_1dc3db08a76b4a2cce49e220b2c5f67042cd5c63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_c27efae0e908b493610f49e1ba7ad35e1b574e63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_ca29012eccac960d7f64cff70f026c97a5dfa4e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.2_61c6f3547ef94f9e932b76d45de196292d9a604e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-stats/15.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e92f73c64f9b7113a11b75a483016ab4ac335d5a">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-stats-15.0.0_ea6cd72fd58b6bb8517d904c2d5c78daba55e06e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-26.1.0_a0608f2f7f190a6aa45ea189f5a8411561ff8452/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/15.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50fe77ff10df20e52e887c0ab44bad8b9ca1760f">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-15.0.0_31ce6a1b0a024442efd0db2f0381146c3a2eb247/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_64b8cb5a35ec9f53df3f78ed9af069040b456d3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_aae1d81b278dc13db5fb9b59ab3d5e45315e95ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.1.1/5cd91fd014f5b72292f959748c20a2cefefae77d/eventbus-3.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5cd91fd014f5b72292f959748c20a2cefefae77d">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-3.1.1_182406756a1e075c14b673869d3bdb53c0c9b5eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/15.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d574ecd901b4e58ade2ed58f46438eeff3a09c0">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-15.0.0_babeb157111408781d49ab810320a16ff81be155/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-26.1.0_6f8eb5548627c5f7c2f36a5fe4ff51babede0152/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_71b30e233258a50ffbe74e75b1282b0641a1f829/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.10.0_3e5da29d780a1872b51ead9b6e99eef470e5f058/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-flags/15.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce55e4bc271694cd4ecce470e412a88b98f26fda">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-flags-15.0.0_bf37350d0ea1bef713893ece9de845e85dc79fa0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_726a2117bb1fe0834be9f1e774f092d4a6c33504/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/15.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c07188f722ee6dd9106ef86d8bffb125e9735fb6">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-15.0.0_5e701bb6c1a31eafe486d60ecfb3fa27867a7c19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/15.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8a10dccac2dc5fc55aacaf0c4a91aab870d14fb">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-15.0.0_f894e25e80f83c383292b0c9f03bde8496228c68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-26.1.0_4b7c149684cc146474c31d975e3811f5536176e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-api-phone/15.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="529349809e1bca07903c3a556514fb199ea6cfc3">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-api-phone-15.0.0_08cddde3c18d2783460e15b4ec09984d5f2b584c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.8.1_d35bcd6a2104877181b6cdd4348f65ca1a2831d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_810e4c7e344efdadd21737cdd69027380139afdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement-base/15.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34f5bdf6595d0e5647e6ff5380bae62c97fe572b">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-base-15.0.0_3dd24d9f57303453c03c116712eead6dd4aaeb03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_72320d9a13beff204529339209e1b74976c0621b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02305bcd525f229f5f2e6713be83d42b982bea52">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bcfcc837b494f95d483c52c0e56419bf485f2cf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.4.0/fc4aa382632bfaa7be7b41579efba41d5a71ecf3/retrofit-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc4aa382632bfaa7be7b41579efba41d5a71ecf3">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.4.0_943d616f3e5b4eb33a628ab1ba7a614dcbc416de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/android.arch.lifecycle-runtime-1.0.0_2042304a4b038f805b4e059cac41e6ffb1a2d289/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/15.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e02a668d3877c9190f897b305f8b94d88de5fd6">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-15.0.0_a10301ec99c9c89f8eaee5c180dfb79cb24e84e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_c86f742c323655d75cf82b93ac860a7234d10dd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/15.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73c6558aeae89d52c3ab66e6e855b18ed808986b">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-15.0.0_c7e6c5045ee20776a0d4091283ca408ef52363c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.8/55a1aa1cdcfd06b9950ca856e2bc2790e105146a/dagger-2.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="55a1aa1cdcfd06b9950ca856e2bc2790e105146a">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.8_4dc42b85425759b584831f2ab41f11ab88c4b494/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.4.0/15d7790ee311d961379c51b00aba12d5967cb7ea/converter-gson-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15d7790ee311d961379c51b00aba12d5967cb7ea">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.4.0_567cbc3d77bf13d05caa2bad22468ca07e0a1232/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/15.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11318f2ca31a456196e91280c545ed72606172ea">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-15.0.0_f74cfe33dddafd4a06624e65fdd3033bc9fbead9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/15.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e60bdb9e35afea4d70bd6772fd7cc19ad9b4c437">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-15.0.0_2af29bdfaa4c99237128565dd52342c637175a86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-26.1.0_3d152e193779c057c70ab6ed3d58b17246d02083/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-26.1.0_7170ed272b127f3e7b9b75aa286837ebbe5d068e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.8.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.8.1_b5ee6e075004b67cc2981762dd482f7039a0d87a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.14.0_06e5276a57c4d61c0de8622a92c00cc3c2f95043/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dac4d691cb4ccec0ea3e0463e58986e0ce6af425">
+        <dex dex="/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-15.0.0_bab321ed0a81a87d52155fedc6ff664a0c49dbe4/classes.dex" />
+    </item>
+
+</items>

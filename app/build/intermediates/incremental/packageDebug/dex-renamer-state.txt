@@ -1,0 +1,7 @@
+#Sat Apr 28 15:14:53 BRT 2018
+base.0=/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bcfcc837b494f95d483c52c0e56419bf485f2cf1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_72ace3e4790fc02407d57123262180e4180ce3d8/classes.dex
+base.1=/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_72ace3e4790fc02407d57123262180e4180ce3d8
+file.0=/home/android7392/Desktop/Projeto-FJ59/CasaDoCodigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bcfcc837b494f95d483c52c0e56419bf485f2cf1/classes.dex
